@@ -7,7 +7,7 @@ import (
   "net"
   "os"
 
-  svc "github.com/practicalgo/chap9/bidi-streaming/service"
+  svc "github.com/practicalgo/code/chap9/bidi-streaming/service"
   "google.golang.org/grpc"
 )
 
